@@ -3,7 +3,7 @@
 ## I'm a mobile developer/tinkerer/avid hiker
 - I am the owner of Judge Bot 🤖
 - I am getting better at dart/flutter every day
-- 2021 goals: Contribute more, and keep Judge Bot up-to-date
+- 2022 goals: Finish rewriting Judge Bot (Currently about 20% done)
 - Fun fact: I play 4 different instruments
 
 ### Connect with me:
